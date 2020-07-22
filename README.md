@@ -19,8 +19,8 @@
 |-	|-	|-	|
 | WineRecommendationSystem |  This a NodeJS + React App that takes display wine information and recommend similar wines. The app users MERN stack and MVVM architecture. | https://github.com/JerryFZhang/WineRecommendationSystem |
 | ReactTipCalculator | A Tip Calculator built using ReactNative |  https://github.com/JerryFZhang/ReactTipCalculator | 
-| GreatMovieDatabase-App | NEAP stack movie database application written in Node.js, AngularJS, Bootstrap, and Express.js. |  https://github.com/JerryFZhang/GreatMovieDatabase-App | 
-| ConferenceTravelGrantSystem | CTGS is demo system for applying conference travel grant , built using Nodejs, Express.js, MongoDB ang jQuery |  https://github.com/JerryFZhang/ConferenceTravelGrantSystem | 
+| MovieDatabase | NEAP stack movie database application written in Node.js, AngularJS, Bootstrap, and Express.js. |  https://github.com/JerryFZhang/GreatMovieDatabase-App | 
+| CTGS | CTGS is demo system for applying conference travel grant , built using Nodejs, Express.js, MongoDB ang jQuery |  https://github.com/JerryFZhang/ConferenceTravelGrantSystem | 
 | ABookstore | Prototype of a bookstore built using NodeJS and Bootstrap. |  https://github.com/JerryFZhang/ABookstore | 
 | Palindrome |  A Node.js + React message board that takes messages from user and determine if the given input is a Palindrome. |  https://github.com/JerryFZhang/Palindrome | 
 | Rockets | A Node + React App that displays space launch missions around the world. |  https://github.com/JerryFZhang/Rockets | 
