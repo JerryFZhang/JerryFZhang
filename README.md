@@ -1,7 +1,7 @@
 ## I make npm packages
 |  Name	| Description  	| Link  	|
 |-	|-	|-	|
-| LaunchLib-js 	| Unofficial NPM package for wrapping Launch Library (https://launchlibrary.net/docs/1.4.1/api.html) 	| https://github.com/JerryFZhang/LaunchLib-js 	| 
+| LaunchLib	|  NPM package for wrapping Launch Library (https://launchlibrary.net/docs/1.4.1/api.html) 	| https://github.com/JerryFZhang/LaunchLib-js 	| 
 | ng-push-ivy 	|  Angular Push Notifications API Wrapper	|  https://github.com/JerryFZhang/ng-push-ivy	| 
 
 ## I contribute to projects
