@@ -36,8 +36,7 @@
 | ArduinoWeatherSensor  | Weather board developed on Arduino with LCD display. |  https://github.com/JerryFZhang/ArduinoWeatherSensor |
 | RemoveLineBreaks | This is a simple python program to help you remove all line breaks in a selected text file |  https://github.com/JerryFZhang/RemoveLineBreaks |
 | Safari UserAgentt.plist  | Safari UserAgentt.plist modified for Web Development (with more devices). | https://gist.github.com/JerryFZhang/6be7ae410de3a8cf180644393f0e4ddf |
-|AdBlockRules | Blocks Comments, Social Buttons, Related Articles, Email Newsletter Fields, Auto Play Videos, Fixed Navbars, Full-page Blocker Blockers for major publications.
- | https://gist.github.com/JerryFZhang/29796fa2b04d8449905f89bd340c001c |
+|AdBlockRules | Blocks Comments, Social Buttons, Related Articles, Email Newsletter Fields, Auto Play Videos, Fixed Navbars, Full-page Blocker Blockers for major publications. | https://gist.github.com/JerryFZhang/29796fa2b04d8449905f89bd340c001c |
 
 ## Some blog themes
 |  Name	| Description  	| Link  	|
