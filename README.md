@@ -1,6 +1,6 @@
 # Hi there 👋, I am Jerry
 
-**I’m currently working 👨🏻‍💻on Colloboration Apps 🗣 **
+**I’m currently working 👨🏻‍💻on Colloboration Apps 🗣**
 
 **I’m currently learning Angular, SwiftUI and iCloudKit 🌱**
 
