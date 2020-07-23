@@ -7,13 +7,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryFZhang&show_icons=true)  
 
 <!--START_SECTION:waka-->
-```text
-TypeScript   18 hrs 26 mins  ██████████████░░░░░░░░░░░   58.68 % 
-SCSS         7 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   22.53 % 
-HTML         4 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-JSON         1 hr 50 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
+
 <!--END_SECTION:waka-->
   
 ## I make npm packages
