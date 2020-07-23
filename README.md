@@ -83,4 +83,3 @@ Mac                      31 hrs 26 mins      ███████████�
 - [LearningSwift](https://github.com/JerryFZhang/LearningSwift)
 - [iOSLocalization](https://github.com/JerryFZhang/iOSLocalization)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jerryfzhang/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JerryF_Zhang)  
