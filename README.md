@@ -1,3 +1,11 @@
+# Hi there 👋, I am Jerry
+
+🔭 I’m currently working on Colloboration Apps 
+🌱 I’m currently learning Angular, SwiftUI and iCloudKit 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryFZhang&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## I make npm packages
 - [LaunchLib](https://github.com/JerryFZhang/LaunchLib-js)	|  NPM package for wrapping Launch Library (https://launchlibrary.net/docs/1.4.1/api.html)
 - [ng-push-ivy](https://github.com/JerryFZhang/ng-push-ivy) 	|  Angular Push Notifications API Wrapper	
@@ -42,3 +50,5 @@
 - [SwiftWatchCounter](https://github.com/JerryFZhang/SwiftWatchCounter)
 - [LearningSwift](https://github.com/JerryFZhang/LearningSwift)
 - [iOSLocalization](https://github.com/JerryFZhang/iOSLocalization)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jerryfzhang/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JerryF_Zhang)  
