@@ -4,8 +4,6 @@
 
 🌱 I’m currently learning Angular, SwiftUI and iCloudKit 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryFZhang&show_icons=true)  
-
 <!--START_SECTION:waka-->
 **I'm a night 🦉** 
 
