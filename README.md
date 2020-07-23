@@ -1,8 +1,8 @@
 # Hi there 👋, I am Jerry
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerryfzhang/)](https://www.linkedin.com/in/jerryfzhang/)
-[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://JerryFZhang.com)](https://JerryFZhang.com)
-[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JerryF_Zhang)](https://twitter.com/JerryF_Zhang)
+[![Linkedin Badge](https://img.shields.io/badge/-jerryfzhang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerryfzhang/)](https://www.linkedin.com/in/jerryfzhang/)
+[![Website Badge](https://img.shields.io/badge/-JerryF_Zhang-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://JerryFZhang.com)](https://JerryFZhang.com)
+[![Twitter Badge](https://img.shields.io/badge/-@JerryF_Zhang-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JerryF_Zhang)](https://twitter.com/JerryF_Zhang)
 
 **I’m currently working 👨🏻‍💻on Colloboration Apps 🗣**
 
