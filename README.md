@@ -1,8 +1,8 @@
 # Hi there 👋, I am Jerry
 
-🔭 I’m currently working on Colloboration Apps 
+**I’m currently working 👨🏻‍💻on Colloboration Apps 🗣 **
 
-🌱 I’m currently learning Angular, SwiftUI and iCloudKit 
+**I’m currently learning Angular, SwiftUI and iCloudKit 🌱**
 
 <!--START_SECTION:waka-->
 **I'm a night 🦉** 
