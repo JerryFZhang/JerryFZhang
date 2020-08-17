@@ -11,9 +11,9 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-6.9%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20Lines%20of%20code-blue)
 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.49% 
@@ -22,7 +22,7 @@
 🌙 Night      59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.87%
 
 ```
-📅 **I'm Most Productive on Thursdays** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday       79 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.9% 
@@ -36,26 +36,26 @@ Sunday       39 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-💬 Languages: 
+💬 Programming Languages: 
 TypeScript               26 hrs 44 mins      ██████████████████░░░░░░░   73.83% 
 JSON                     5 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.99% 
 HTML                     1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.95% 
 SCSS                     1 hr 15 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
 JavaScript               34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  36 hrs 11 mins      █████████████████████████   99.88% 
 Textmate                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Mac                      36 hrs 13 mins      █████████████████████████   100.0%
 
 ```
 
-**I mostly code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               23 repos            ████████░░░░░░░░░░░░░░░░░   32.86% 
