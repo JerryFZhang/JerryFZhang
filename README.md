@@ -9,9 +9,9 @@
 **I’m currently learning Angular, SwiftUI and iCloudKit 🌱**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.5%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -40,13 +40,15 @@ Sunday       39 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 min               █████████████████████████   100.0%
+HTML                     1 hr 55 mins        ████████████████░░░░░░░░░   64.14% 
+TypeScript               42 mins             █████░░░░░░░░░░░░░░░░░░░░   23.47% 
+SCSS                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39%
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+VS Code                  3 hrs               █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.0%
+Mac                      3 hrs               █████████████████████████   100.0%
 
 ```
 
