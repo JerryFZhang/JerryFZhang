@@ -69,7 +69,7 @@ Java                     6 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-  
+
 ## I make npm packages
 - [LaunchLib](https://github.com/JerryFZhang/LaunchLib-js)	|  NPM package for wrapping Launch Library (https://launchlibrary.net/docs/1.4.1/api.html)
 - [ng-push-ivy](https://github.com/JerryFZhang/ng-push-ivy) 	|  Angular Push Notifications API Wrapper	
@@ -115,3 +115,6 @@ Java                     6 repos             ██░░░░░░░░░�
 - [LearningSwift](https://github.com/JerryFZhang/LearningSwift)
 - [iOSLocalization](https://github.com/JerryFZhang/iOSLocalization)
 
+## and some other things...
+- A Tech Blog: https://jerryzhang.blog
+- A Podcast: https://techfusionfm.com
