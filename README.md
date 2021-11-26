@@ -4,9 +4,9 @@
 [![Website Badge](https://img.shields.io/badge/-JerryFZhang.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://JerryFZhang.com)](https://JerryFZhang.com)
 [![Twitter Badge](https://img.shields.io/badge/-@JerryF_Zhang-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JerryF_Zhang)](https://twitter.com/JerryF_Zhang)
 
-**I’m currently working on AWS [EKS](https://aws.amazon.com/eks/) 📦➡️🛳**
+**I’m currently working on Amazon [EKS](https://aws.amazon.com/eks/)'s console front end with React 📦➡️🛳**
 
-**I’m currently learning React, SwiftUI and Kubernetes 🌱**
+**I’m currently learning Kubernetes, Goland and Ruby 🌱**
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
