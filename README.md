@@ -123,4 +123,4 @@ Java                     6 repos             ██░░░░░░░░░�
 
 
 ## Psst, I am cerfified 🧑🏻‍⚖🎖:
-- [Scaled Agile Framework] https://www.scaledagileframework.com
+- [Scaled Agile Framework](https://www.scaledagileframework.com)
