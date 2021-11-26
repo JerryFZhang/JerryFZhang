@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/-JerryFZhang.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://JerryFZhang.com)](https://JerryFZhang.com)
 [![Twitter Badge](https://img.shields.io/badge/-@JerryF_Zhang-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JerryF_Zhang)](https://twitter.com/JerryF_Zhang)
 
-**I’m currently working on Amazon [EKS](https://aws.amazon.com/eks/)'s console front end with React**
+**I’m currently working on Amazon [EKS](https://aws.amazon.com/eks/)'s console front end with React, checkout my [latest work](https://aws.amazon.com/about-aws/whats-new/2021/11/visualize-kubernetes-clusters-one-place-amazon-eks-connector-generally-available/) **
 
 **I’m currently learning 🌱 Kubernetes 📦➡️🛳, Goland 🧠 and Ruby 💎**
 
