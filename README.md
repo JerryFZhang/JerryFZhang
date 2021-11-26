@@ -6,7 +6,7 @@
 
 **I’m currently working on Amazon [EKS](https://aws.amazon.com/eks/)'s console front end with React, checkout my [latest work](https://aws.amazon.com/about-aws/whats-new/2021/11/visualize-kubernetes-clusters-one-place-amazon-eks-connector-generally-available/) **
 
-**I’m currently learning 🌱 Kubernetes 📦➡️🛳, Goland 🧠 and Ruby 💎**
+**I’m currently learning 🌱 Kubernetes 📦➡️🛳, Golang 🧠 and Ruby 💎**
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
@@ -120,3 +120,7 @@ Java                     6 repos             ██░░░░░░░░░�
 ## and some other things 👀...
 - A Tech Blog ✍🏻: https://jerryzhang.blog
 - A Podcast 🎤: https://techfusionfm.com
+
+
+## Psst, I am cerfified 🧑🏻‍⚖🎖:
+- [Scaled Agile Framework] https://www.scaledagileframework.com
