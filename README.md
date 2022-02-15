@@ -121,5 +121,5 @@ Java                     6 repos             ██░░░░░░░░░�
 - A Podcast 🎤: https://techfusionfm.com
 
 
-## Psst, I am cerfified 🧑🏻‍⚖🎖:
+## Psst, I am certified 🧑🏻‍⚖🎖:
 - [Scaled Agile Framework](https://www.scaledagileframework.com)
