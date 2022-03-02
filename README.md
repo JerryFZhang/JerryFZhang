@@ -9,7 +9,7 @@
 **I’m currently learning 🌱 Kubernetes 📦➡️🛳, Golang 🧠 and Ruby 💎**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
@@ -67,7 +67,7 @@ Java                     6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2022 00:32:30 UTC
+ Last Updated on 02/03/2022 00:37:50 UTC
 <!--END_SECTION:waka-->
 
 ## I make npm packages 📦🔨
