@@ -9,7 +9,7 @@
 **I’m currently learning 🌱 Kubernetes 📦➡️🛳, Golang 🧠 and Ruby 💎**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
@@ -40,15 +40,14 @@ Sunday       22 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 40 mins       █████████████████████░░░░   87.02% 
-JSON                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+JavaScript               5 hrs 20 mins       █████████████████████░░░░   87.15% 
+JSON                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85%
 
 🔥 Editors: 
-VS Code                  6 hrs 30 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 7 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      6 hrs 30 mins       █████████████████████████   100.0%
+Mac                      6 hrs 7 mins        █████████████████████████   100.0%
 
 ```
 
@@ -65,7 +64,7 @@ Java                     6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2022 00:31:55 UTC
+ Last Updated on 05/05/2022 00:30:00 UTC
 <!--END_SECTION:waka-->
 
 ## I make npm packages 📦🔨
