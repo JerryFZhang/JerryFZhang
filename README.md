@@ -6,7 +6,7 @@
 
 **I’m currently working on Amazon [EKS](https://aws.amazon.com/eks/)'s console front end with React, checkout my [latest work](https://aws.amazon.com/about-aws/whats-new/2021/11/visualize-kubernetes-clusters-one-place-amazon-eks-connector-generally-available/)**
 
-**I’m currently learning 🌱 Kubernetes 📦➡️🛳, Golang 🧠 and Ruby 💎**
+**I’m currently learning 🌱 Kubernetes 📦➡️🛳, Golang 🧠, Ruby 💎 and SwiftUI 📱**
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%2C269%20hrs%2036%20mins-blue)
