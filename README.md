@@ -123,5 +123,10 @@ Java                     6 repos             ██░░░░░░░░░�
 - A Podcast 🎤: https://techfusionfm.com
 
 
-## Psst, I am certified 🧑🏻‍⚖🎖:
+## Psst, I am certified 🧑🏻‍⚖:
 - [Scaled Agile Framework](https://www.scaledagileframework.com)
+
+## Awarded 🎖
+- 2022 Canada Developer 30 Under 30
+- 2021 Mitel Shark Tank Competition - 3<sup>rd</sup> place
+- [2019 Canada Developer 30 Under 30](https://betakit.com/canadas-2019-developer-30-under-30/)
