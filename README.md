@@ -127,6 +127,6 @@ Java                     6 repos             ██░░░░░░░░░�
 - [Scaled Agile Framework](https://www.scaledagileframework.com)
 
 ## Awarded 🎖
-- [2022 Canada's Developer 30 Under 30](https://www.linkedin.com/posts/weavesphereconf_weavesphere-activity-6999082933198233600-7K_6)
+- [2022 Canada's Developer 30 Under 30]([https://www.linkedin.com/posts/weavesphereconf_weavesphere-activity-6999082933198233600-7K_6](https://betakit.com/canadas-2022-developer-30-under-30/)
 - 2021 Mitel Shark Tank Competition - 3<sup>rd</sup> place
 - [2019 Canada's Developer 30 Under 30](https://betakit.com/canadas-2019-developer-30-under-30/)
