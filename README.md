@@ -15,6 +15,43 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+🌆 Daytime    62 commits     █████████████████░░░░░░░░   70.45% 
+🌃 Evening    15 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14% 
+Tuesday      15 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
+Wednesday    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.95% 
+Thursday     48 commits     █████████████░░░░░░░░░░░░   54.55% 
+Friday       11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27% 
+Sunday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -28,7 +65,7 @@ Java                     6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2023 00:29:00 UTC
+ Last Updated on 04/01/2023 00:32:40 UTC
 <!--END_SECTION:waka-->
 
 ## I make npm packages 📦🔨
