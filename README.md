@@ -9,7 +9,7 @@
 **I’m currently learning 🌱 Kubernetes 📦➡️🛳, Golang 🧠, Ruby 💎 and SwiftUI 📱**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C636%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C644%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,13 +42,17 @@ Sunday       4 commits      █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               7 hrs 16 mins       ████████████████████████░   96.0% 
+Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46% 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51% 
+Ruby                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 hrs 34 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 hrs 44 mins       ██████████████████████░░░   88.93% 
+Linux                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.07%
 
 ```
 
@@ -65,7 +69,7 @@ Java                     6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2023 00:29:54 UTC
+ Last Updated on 07/01/2023 00:28:42 UTC
 <!--END_SECTION:waka-->
 
 ## I make npm packages 📦🔨
