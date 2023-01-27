@@ -130,3 +130,12 @@ Java                     6 repos             ██░░░░░░░░░�
 - [2022 Canada's Developer 30 Under 30](https://betakit.com/canadas-2022-developer-30-under-30/)
 - 2021 Mitel Shark Tank Competition - 3<sup>rd</sup> place
 - [2019 Canada's Developer 30 Under 30](https://betakit.com/canadas-2019-developer-30-under-30/)
+
+## Participated in
+- [deCODE Hackathon 2021](https://www.hackdecode.io/) - Mentor representing Mitel, the team developed a React + Firebase channel-based audio broadcast app for boosting employee engagement and knowledge-sharing.
+- [University of Ottawa’s 2019 Ceremony of Excellence](https://uocal.uottawa.ca/en/node/24355) - Guest speaker, *From School to Work*.
+- [deCODE Hackathon 2017](https://www.hackdecode.io/) - Participant w/ Foko, built an app to emojify user’s facial expressions using Kairos and Node.js
+- [Startup Weekend 2016](https://engineering.uottawa.ca/news/startup-weekend-more-transforming-ideas-reality-quickly) - Participant founder, pitched and developed an indoor navigation concept app, designed UI, studied product feasibility with a Ph.D. researcher, and demoed as a finalist.
+- PaintCraft, a project incubated from a design thinking course in 2015, built an education-focused Minecraft Java mod with a web app to let elementary school students draw a Minecraft item and play with it.
+
+
