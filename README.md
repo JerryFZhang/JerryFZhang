@@ -15,6 +15,8 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
+Metric Status: [![WakaReadme](https://github.com/JerryFZhang/JerryFZhang/actions/workflows/readme.yml/badge.svg)](https://github.com/JerryFZhang/JerryFZhang/actions/workflows/readme.yml)
+
 **I'm an Early 🐤** 
 
 ```text
