@@ -122,6 +122,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 ## Psst, I am certified 🧑🏻‍⚖:
+- [CKAD: Certified Kubernetes Application Developer - The Linux Foundation](https://www.credly.com/badges/37d461d1-e01d-4c50-a277-58b4e511a09e/public_url)
 - [Scaled Agile Framework](https://www.scaledagileframework.com)
 
 ## Awarded 🎖
