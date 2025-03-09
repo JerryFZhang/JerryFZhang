@@ -9,7 +9,7 @@
 **I’m currently learning 🌱 Kubernetes 📦➡️🛳, Golang 🧠, Ruby 💎 and SwiftUI 📱**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C305%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C309%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,14 +40,15 @@ Sunday                   3007 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               28 hrs 30 mins      ████████████████████████░   95.61 % 
-JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+TypeScript               27 hrs 27 mins      ████████████████████████░   95.40 % 
+JSON                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  28 hrs 46 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      29 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -63,7 +64,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2025 00:13:54 UTC
+ Last Updated on 09/03/2025 00:14:07 UTC
 <!--END_SECTION:waka-->
 
 ## I make npm packages 📦🔨
