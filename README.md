@@ -9,9 +9,9 @@
 **I’m currently learning 🌱 Kubernetes 📦➡️🛳, Golang 🧠, Ruby 💎 and SwiftUI 📱**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C549%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C555%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.6%20million%20lines%20of%20code-blue)
 
@@ -40,17 +40,17 @@ Sunday                   3007 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               25 hrs 15 mins      █████████████████░░░░░░░░   68.99 % 
-JSON                     7 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-Markdown                 2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-TSConfig                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+TypeScript               23 hrs 24 mins      ████████████████░░░░░░░░░   64.50 % 
+JSON                     8 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+Markdown                 3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+TSConfig                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 36 mins      █████████████████████████   100.00 % 
+VS Code                  36 hrs 17 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      36 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      36 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -66,7 +66,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/05/2025 00:16:05 UTC
+ Last Updated on 09/05/2025 00:15:50 UTC
 <!--END_SECTION:waka-->
 
 ## I make npm packages 📦🔨
