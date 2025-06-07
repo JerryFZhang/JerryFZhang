@@ -9,11 +9,45 @@
 **I’m currently learning 🌱 Kubernetes 📦➡️🛳, Golang 🧠, Ruby 💎 and SwiftUI 📱**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C684%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C687%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.6%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                4992 commits        ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+🌆 Daytime                6001 commits        ████████░░░░░░░░░░░░░░░░░   30.23 % 
+🌃 Evening                8182 commits        ██████████░░░░░░░░░░░░░░░   41.22 % 
+🌙 Night                  676 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   1385 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Tuesday                  3022 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Wednesday                3444 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Thursday                 2654 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Friday                   2274 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Saturday                 4065 commits        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+Sunday                   3007 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               2 hrs 14 mins       █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 14 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      2 hrs 14 mins       █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -28,7 +62,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2025 00:18:12 UTC
+ Last Updated on 07/06/2025 00:18:02 UTC
 <!--END_SECTION:waka-->
 
 ## I make npm packages 📦🔨
