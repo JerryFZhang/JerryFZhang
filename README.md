@@ -9,9 +9,45 @@
 **I’m currently learning 🌱 Kubernetes 📦➡️🛳, Golang 🧠, Ruby 💎 and SwiftUI 📱**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C694%20hrs%2044%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.6%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                4992 commits        ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+🌆 Daytime                6001 commits        ████████░░░░░░░░░░░░░░░░░   30.23 % 
+🌃 Evening                8183 commits        ██████████░░░░░░░░░░░░░░░   41.22 % 
+🌙 Night                  676 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   1385 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Tuesday                  3022 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Wednesday                3444 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Thursday                 2654 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Friday                   2275 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Saturday                 4065 commits        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+Sunday                   3007 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -26,7 +62,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2025 00:17:12 UTC
+ Last Updated on 01/09/2025 00:18:14 UTC
 <!--END_SECTION:waka-->
 
 ## I make npm packages 📦🔨
