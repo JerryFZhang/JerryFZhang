@@ -40,13 +40,13 @@ Sunday                   3007 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -62,7 +62,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2025 00:17:34 UTC
+ Last Updated on 06/12/2025 00:16:29 UTC
 <!--END_SECTION:waka-->
 
 ## I make npm packages 📦🔨
