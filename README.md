@@ -9,24 +9,60 @@
 **I’m currently learning 🌱 Kubernetes 📦➡️🛳, Golang 🧠, Ruby 💎 and SwiftUI 📱**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C707%20hrs%2021%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.07%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.09%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5216 commits        ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+🌆 Daytime                6327 commits        ████████░░░░░░░░░░░░░░░░░   30.13 % 
+🌃 Evening                8763 commits        ██████████░░░░░░░░░░░░░░░   41.73 % 
+🌙 Night                  693 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   1559 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Tuesday                  3132 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Wednesday                3772 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Thursday                 2776 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Friday                   2411 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Saturday                 4131 commits        █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Sunday                   3218 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               27 repos            ████████░░░░░░░░░░░░░░░░░   33.75 % 
-Swift                    14 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+JavaScript               27 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Swift                    15 repos            █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 
 
 
 
- Last Updated on 08/06/2026 00:47:04 UTC
+ Last Updated on 09/06/2026 00:39:42 UTC
 <!--END_SECTION:waka-->
 
 ## I make npm packages 📦🔨
