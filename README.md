@@ -13,56 +13,22 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.23%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                5319 commits        ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-🌆 Daytime                6551 commits        ████████░░░░░░░░░░░░░░░░░   30.51 % 
-🌃 Evening                8907 commits        ██████████░░░░░░░░░░░░░░░   41.48 % 
-🌙 Night                  694 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   1612 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Tuesday                  3181 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Wednesday                3877 commits        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Thursday                 2858 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Friday                   2569 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Saturday                 4146 commits        █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Sunday                   3228 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.24%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in JavaScript** 
 
 ```text
+JavaScript               27 repos            ████████░░░░░░░░░░░░░░░░░   32.14 % 
 Swift                    16 repos            █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+HTML                     12 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 
 
 
 
- Last Updated on 16/06/2026 00:53:47 UTC
+ Last Updated on 17/06/2026 00:48:03 UTC
 <!--END_SECTION:waka-->
 
 ## I make npm packages 📦🔨
