@@ -9,9 +9,45 @@
 **I’m currently learning 🌱 Kubernetes 📦➡️🛳, Golang 🧠, Ruby 💎 and SwiftUI 📱**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C707%20hrs%2021%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.46%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.47%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5553 commits        ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+🌆 Daytime                6829 commits        ████████░░░░░░░░░░░░░░░░░   30.58 % 
+🌃 Evening                9217 commits        ██████████░░░░░░░░░░░░░░░   41.28 % 
+🌙 Night                  729 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   1684 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Tuesday                  3226 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Wednesday                3986 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Thursday                 3113 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Friday                   2783 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Saturday                 4231 commits        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Sunday                   3305 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -26,7 +62,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:07:00 UTC
+ Last Updated on 26/07/2026 02:10:28 UTC
 <!--END_SECTION:waka-->
 
 ## I make npm packages 📦🔨
