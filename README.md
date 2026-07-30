@@ -9,9 +9,53 @@
 **I’m currently learning 🌱 Kubernetes 📦➡️🛳, Golang 🧠, Ruby 💎 and SwiftUI 📱**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C405%20hrs%2026%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.48%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.49%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5566 commits        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
+🌆 Daytime                6854 commits        ████████░░░░░░░░░░░░░░░░░   30.60 % 
+🌃 Evening                9245 commits        ██████████░░░░░░░░░░░░░░░   41.27 % 
+🌙 Night                  734 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   1691 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Tuesday                  3263 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Wednesday                3999 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Thursday                 3113 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Friday                   2783 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Saturday                 4234 commits        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Sunday                   3316 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -26,7 +70,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 02:03:06 UTC
+ Last Updated on 30/07/2026 01:54:52 UTC
 <!--END_SECTION:waka-->
 
 ## I make npm packages 📦🔨
