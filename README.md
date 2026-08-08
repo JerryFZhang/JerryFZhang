@@ -9,9 +9,53 @@
 **I’m currently learning 🌱 Kubernetes 📦➡️🛳, Golang 🧠, Ruby 💎 and SwiftUI 📱**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C405%20hrs%2026%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.50%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5576 commits        ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+🌆 Daytime                6876 commits        ████████░░░░░░░░░░░░░░░░░   30.63 % 
+🌃 Evening                9264 commits        ██████████░░░░░░░░░░░░░░░   41.26 % 
+🌙 Night                  735 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   1691 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Tuesday                  3264 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Wednesday                4002 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Thursday                 3135 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Friday                   2806 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Saturday                 4237 commits        █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Sunday                   3316 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -26,7 +70,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:22:46 UTC
+ Last Updated on 08/08/2026 01:10:41 UTC
 <!--END_SECTION:waka-->
 
 ## I make npm packages 📦🔨
